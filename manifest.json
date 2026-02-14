@@ -1,8 +1,8 @@
 {
   "name": "Retro Snake Game",
   "short_name": "Snake Game",
-  "description": "Classic retro snake game with realistic graphics",
-  "start_url": "/snake-game/",
+  "description": "Classic retro snake game",
+  "start_url": ".",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#0d1f0d",
